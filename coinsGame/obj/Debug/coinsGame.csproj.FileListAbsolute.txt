@@ -1,0 +1,10 @@
+C:\Users\Subeh\source\repos\coinsGame\coinsGame\bin\Debug\coinsGame.exe.config
+C:\Users\Subeh\source\repos\coinsGame\coinsGame\bin\Debug\coinsGame.exe
+C:\Users\Subeh\source\repos\coinsGame\coinsGame\bin\Debug\coinsGame.pdb
+C:\Users\Subeh\source\repos\coinsGame\coinsGame\obj\Debug\coinsGame.csprojAssemblyReference.cache
+C:\Users\Subeh\source\repos\coinsGame\coinsGame\obj\Debug\coinsGame.game.resources
+C:\Users\Subeh\source\repos\coinsGame\coinsGame\obj\Debug\coinsGame.Properties.Resources.resources
+C:\Users\Subeh\source\repos\coinsGame\coinsGame\obj\Debug\coinsGame.csproj.GenerateResource.cache
+C:\Users\Subeh\source\repos\coinsGame\coinsGame\obj\Debug\coinsGame.csproj.CoreCompileInputs.cache
+C:\Users\Subeh\source\repos\coinsGame\coinsGame\obj\Debug\coinsGame.exe
+C:\Users\Subeh\source\repos\coinsGame\coinsGame\obj\Debug\coinsGame.pdb
